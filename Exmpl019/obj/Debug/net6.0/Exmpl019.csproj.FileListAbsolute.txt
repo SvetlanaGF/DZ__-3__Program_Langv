@@ -1,0 +1,15 @@
+C:\Users\Myra\Documents\Обучение\Языки программирования\DZ__ 3__Program_Langv\Exmpl019\bin\Debug\net6.0\Exmpl019.exe
+C:\Users\Myra\Documents\Обучение\Языки программирования\DZ__ 3__Program_Langv\Exmpl019\bin\Debug\net6.0\Exmpl019.deps.json
+C:\Users\Myra\Documents\Обучение\Языки программирования\DZ__ 3__Program_Langv\Exmpl019\bin\Debug\net6.0\Exmpl019.runtimeconfig.json
+C:\Users\Myra\Documents\Обучение\Языки программирования\DZ__ 3__Program_Langv\Exmpl019\bin\Debug\net6.0\Exmpl019.dll
+C:\Users\Myra\Documents\Обучение\Языки программирования\DZ__ 3__Program_Langv\Exmpl019\bin\Debug\net6.0\Exmpl019.pdb
+C:\Users\Myra\Documents\Обучение\Языки программирования\DZ__ 3__Program_Langv\Exmpl019\obj\Debug\net6.0\Exmpl019.csproj.AssemblyReference.cache
+C:\Users\Myra\Documents\Обучение\Языки программирования\DZ__ 3__Program_Langv\Exmpl019\obj\Debug\net6.0\Exmpl019.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Myra\Documents\Обучение\Языки программирования\DZ__ 3__Program_Langv\Exmpl019\obj\Debug\net6.0\Exmpl019.AssemblyInfoInputs.cache
+C:\Users\Myra\Documents\Обучение\Языки программирования\DZ__ 3__Program_Langv\Exmpl019\obj\Debug\net6.0\Exmpl019.AssemblyInfo.cs
+C:\Users\Myra\Documents\Обучение\Языки программирования\DZ__ 3__Program_Langv\Exmpl019\obj\Debug\net6.0\Exmpl019.csproj.CoreCompileInputs.cache
+C:\Users\Myra\Documents\Обучение\Языки программирования\DZ__ 3__Program_Langv\Exmpl019\obj\Debug\net6.0\Exmpl019.dll
+C:\Users\Myra\Documents\Обучение\Языки программирования\DZ__ 3__Program_Langv\Exmpl019\obj\Debug\net6.0\refint\Exmpl019.dll
+C:\Users\Myra\Documents\Обучение\Языки программирования\DZ__ 3__Program_Langv\Exmpl019\obj\Debug\net6.0\Exmpl019.pdb
+C:\Users\Myra\Documents\Обучение\Языки программирования\DZ__ 3__Program_Langv\Exmpl019\obj\Debug\net6.0\Exmpl019.genruntimeconfig.cache
+C:\Users\Myra\Documents\Обучение\Языки программирования\DZ__ 3__Program_Langv\Exmpl019\obj\Debug\net6.0\ref\Exmpl019.dll
